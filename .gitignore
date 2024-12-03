@@ -1,0 +1,21 @@
+# Virtual Environment
+rag_env/
+*.pyc
+__pycache__/
+.env
+.DS_Store
+*.log
+
+# IDE and Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Dependency directories
+node_modules/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.class
